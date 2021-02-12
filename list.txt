@@ -1,1 +1,2 @@
-senthilbk/besman-env-testrepo/python-dev,0.0.1
+deepikasd/besman-test-repo/dummy1,0.0.1
+deepikasd/besman-test-repo/dummy2,0.0.1
