@@ -1,4 +1,4 @@
-deepikasd/besman-test-repo/sample,0.0.1
+deepikasd/besman-test-repo/sample1,0.0.1
 deepikasd/besman-test-repo/dummy,0.0.1
 deepikasd/besman-test-repo/dummy9,0.0.1
 deepikasd/besman-test-repo/dummy11,0.0.1
