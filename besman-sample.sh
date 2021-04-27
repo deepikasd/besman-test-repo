@@ -2,5 +2,5 @@
 
 function __besman_install_sample
 {
-    installed
+      echo "sample installed"
 }
